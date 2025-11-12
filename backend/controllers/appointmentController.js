@@ -3,13 +3,11 @@ import fs from "fs";
 import { fileURLToPath } from "url";
 import appointmentModel from "../models/appointment.js";
 import userModel from "../models/userModel.js";
-import Stripe from 'stripe';
 import providerModel from "../models/providerModel.js";
 import dotenv from "dotenv";
 import { sendBookingEmails } from "../services/emailService.js";
 dotenv.config();
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
