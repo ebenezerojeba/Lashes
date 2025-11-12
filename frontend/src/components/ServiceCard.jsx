@@ -139,7 +139,7 @@ const ServiceCard = ({
   <button
   onClick={handleBooking}
   className={`mt-2 py-2 px-3 cursor-pointer font-medium text-white transition-all duration-300 flex items-center justify-center group/btn text-xs sm:text-sm ${
-    isHovered ? 'bg-pink-500 shadow-md' : 'bg-pink-900'
+    isHovered ? 'bg-[#9e2a2c]' : 'bg-[#9e2a2c]'
   }`}
 >
   Book Now
