@@ -43,11 +43,8 @@ app.use(compression())
 app.use(
   cors({
     origin: [
-      "https://admin.palmsbeautystore.com",
-      "https://palmsfrontend.fly.dev",
-      "https://palmsadmin.fly.dev",
-      "https://palmsbeautystore.com",
-      "https://www.palmsbeautystore.com",
+      "https://lashedbyope.vercel.app",
+      "https://lashedbyopeadmin.vercel.app",
       'http://localhost:5174' ,
       'http://localhost:5173'
     ],
