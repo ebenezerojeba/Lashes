@@ -7,7 +7,6 @@ import adminRouter from "./routes/adminRoute.js";
 import userRouter from "./routes/userRoute.js";
 import productRouter from "./routes/productRoute.js";
 import cartRouter from "./routes/cartRoute.js";
-import orderRouter from "./routes/orderRoute.js";
 import subscribeRouter from "./routes/subscribeRoute.js";
 import connectCloudinary from "./config/cloudinary.js";
 import serviceRouter from "./routes/serviceRoute.js";
