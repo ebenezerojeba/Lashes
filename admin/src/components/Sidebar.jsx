@@ -128,7 +128,7 @@ const Sidebar = ({ onLogout, notifications = 0, className = '' }) => {
           </div> */}
           {isExpanded && (
             <div>
-              <div className="font-bold text-lg">Palmsbeauty</div>
+              <div className="font-bold text-lg">LashedbyOpe</div>
               <span className="text-xs">Admin Panel</span>
             </div>
           )}
