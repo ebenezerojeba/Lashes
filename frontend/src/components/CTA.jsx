@@ -27,7 +27,7 @@ const CTASection = () => {
   return (
     <section 
       ref={sectionRef}
-      className="relative py-10 overflow-hidden bg-[#9e2a2c]"
+      className="relative py-10 overflow-hidden rounded-xl bg-[#9e2a2c]"
     >
       {/* Animated Background Elements */}
       <div className="absolute inset-0 overflow-hidden">

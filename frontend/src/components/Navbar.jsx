@@ -115,7 +115,7 @@ const Navbar = () => {
 
           {/* Right side actions */}
           <div className="flex items-center space-x-2 sm:space-x-3">
-       \
+       
 
             {/* Profile Section */}
             {token && userData ? (
@@ -180,7 +180,7 @@ const Navbar = () => {
             ) : (
               <button
                 onClick={() => navigate("/login")}
-                className="bg-primary text-white px-2 sm:px-3 md:px-4 lg:px-5 py-1.5 sm:py-2 rounded-full font-light hover:bg-primary-dark transition-all duration-300 text-xs sm:text-sm md:text-base shadow-sm"
+                className="bg-white text-red-600 px-2 sm:px-3 md:px-4 lg:px-5 py-1.5 sm:py-2 rounded-full font-light hover:bg-primary-dark transition-all duration-300 text-xs sm:text-sm md:text-base shadow-sm"
               >
                 <span className="hidden sm:inline">Create Account</span>
                 <span className="sm:hidden">Login</span>
