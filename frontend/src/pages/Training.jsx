@@ -120,8 +120,9 @@ const Training = () => {
       student: "Class of 2024"
     },
     {
+      image: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&h=800&fit=crop',
       // image: assets.t2,
-      image: 'https://www.google.com/imgres?q=lash%20techs%20training%20in%20nigeria&imgurl=https%3A%2F%2Fimages.fresha.com%2Flocations%2Flocation-profile-images%2F353067%2F867334%2Fba477f29-0a02-42a1-9e05-bfcb235bb009.jpg%3Fclass%3Dwidth-small&imgrefurl=https%3A%2F%2Fwww.fresha.com%2Flp%2Fen%2Ftt%2Feyelash-extensions%2Fin%2Fng-abuja&docid=0y_QEd0dvv1h3M&tbnid=-zXXdgGdNzob5M&vet=12ahUKEwi1p_jb_e2QAxWPd0EAHVLKHgcQM3oECFwQAA..i&w=544&h=305&hcb=2&ved=2ahUKEwi1p_jb_e2QAxWPd0EAHVLKHgcQM3oECFwQAA',
+      // image: 'https://www.google.com/imgres?q=lash%20techs%20training%20in%20nigeria&imgurl=https%3A%2F%2Fimages.fresha.com%2Flocations%2Flocation-profile-images%2F353067%2F867334%2Fba477f29-0a02-42a1-9e05-bfcb235bb009.jpg%3Fclass%3Dwidth-small&imgrefurl=https%3A%2F%2Fwww.fresha.com%2Flp%2Fen%2Ftt%2Feyelash-extensions%2Fin%2Fng-abuja&docid=0y_QEd0dvv1h3M&tbnid=-zXXdgGdNzob5M&vet=12ahUKEwi1p_jb_e2QAxWPd0EAHVLKHgcQM3oECFwQAA..i&w=544&h=305&hcb=2&ved=2ahUKEwi1p_jb_e2QAxWPd0EAHVLKHgcQM3oECFwQAA',
       title: "Hands-On Professional Training",
       subtitle: "Learn from industry experts",
       student: "Advanced Techniques Workshop"
