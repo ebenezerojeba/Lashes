@@ -113,27 +113,29 @@ const Training = () => {
 
   const studentSlides = [
     {
-      // image: "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&h=800&fit=crop",
-      image: assets.c1,
+      image: "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&h=800&fit=crop",
+      // image: assets.c1,
       title: "Master the Art of Lash Extensions",
       subtitle: "Join our certified training program",
       student: "Class of 2024"
     },
     {
-      image: assets.t2,
+      // image: assets.t2,
+      image: 'https://www.google.com/imgres?q=lash%20techs%20training%20in%20nigeria&imgurl=https%3A%2F%2Fimages.fresha.com%2Flocations%2Flocation-profile-images%2F353067%2F867334%2Fba477f29-0a02-42a1-9e05-bfcb235bb009.jpg%3Fclass%3Dwidth-small&imgrefurl=https%3A%2F%2Fwww.fresha.com%2Flp%2Fen%2Ftt%2Feyelash-extensions%2Fin%2Fng-abuja&docid=0y_QEd0dvv1h3M&tbnid=-zXXdgGdNzob5M&vet=12ahUKEwi1p_jb_e2QAxWPd0EAHVLKHgcQM3oECFwQAA..i&w=544&h=305&hcb=2&ved=2ahUKEwi1p_jb_e2QAxWPd0EAHVLKHgcQM3oECFwQAA',
       title: "Hands-On Professional Training",
       subtitle: "Learn from industry experts",
       student: "Advanced Techniques Workshop"
     },
     {
-      // image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&h=800&fit=crop",
-      image: assets.t3,
+      image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&h=800&fit=crop",
+      // image: assets.t3,
       title: "Build Your Beauty Empire",
       subtitle: "From student to successful entrepreneur",
       student: "Success Stories"
     },
     {
-      image: assets.t4,
+      // image: assets.t4,
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgwNbCij_zyVSd3_VXfdyKorWCIFNAEmyBQ&s',
       title: "Practice Makes Perfect",
       subtitle: "Real models, real experience",
       student: "Training in Action"
