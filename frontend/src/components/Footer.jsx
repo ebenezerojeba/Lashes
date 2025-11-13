@@ -21,7 +21,7 @@ const Footer = () => {
           <div className="md:col-span-1">
             <div className="mb-6">
               <h3 className="text-3xl font-bold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent mb-2">
-                LashedbyOpe
+                LashedBy
               </h3>
               <div className="w-16 h-1 bg-[#9e2a2c] rounded-full"></div>
             </div>
@@ -118,7 +118,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3 text-gray-400">
                 <Mail className="h-5 w-5 text-[#9e2a2c] flex-shrink-0" />
-                <span>info@lashedbyope.com</span>
+                <span>info@LashedBy.com</span>
               </li>
               <li className="flex items-start gap-3 text-gray-400">
                 <Clock className="h-5 w-5 text-[#9e2a2c] flex-shrink-0 mt-0.5" />
@@ -150,7 +150,7 @@ const Footer = () => {
 
           {/* Bottom Bar */}
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
-            <p>&copy; 2024 LashedbyOpe. All rights reserved.</p>
+            <p>&copy; 2024 LashedBy. All rights reserved.</p>
             <div className="flex items-center gap-2">
               <span>Made with</span>
               <Heart className="h-4 w-4 text-[#9e2a2c] fill-[#9e2a2c] animate-pulse" />

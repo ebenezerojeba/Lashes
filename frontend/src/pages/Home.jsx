@@ -30,7 +30,7 @@ const Home = () => {
     },
     {
       name: "Jessica L.",
-      text: "The training program changed my career. Highly recommend LashedbyOpe!",
+      text: "The training program changed my career. Highly recommend LashedBy!",
       rating: 5,
     },
     {

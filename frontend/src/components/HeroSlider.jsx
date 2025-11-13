@@ -69,7 +69,7 @@ const HeroWithSlideshow = () => {
             }`}
             style={{ transitionDelay: '200ms' }}
           >
-            LashedByOpe Baddies
+            LashedBy Baddies
           </h1>
         </div>
 

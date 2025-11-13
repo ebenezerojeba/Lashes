@@ -70,7 +70,7 @@ const Navbar = () => {
 >
   <div className="text-center md:text-left mb-0 sm:mb-1 md:mb-0">
     <h3 className="text-xl sm:text-2xl md:text-3xl font-bold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-      LashedbyOpe
+      LashedBy
     </h3>
     <div className="w-12 sm:w-16 md:w-20 h-1 bg-gray-900 rounded-full"></div>
   </div>

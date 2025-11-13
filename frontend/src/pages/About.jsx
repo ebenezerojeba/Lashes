@@ -72,7 +72,7 @@ const About = () => {
             <div className="absolute -inset-2 bg-gradient-to-r from-pink-400 via-purple-400 to-blue-400 rounded-3xl blur-xl opacity-50 group-hover:opacity-75 transition duration-500"></div>
             <img
               src={assets.c1}
-              alt="Founder of LashedbyOpe"
+              alt="Founder of LashedBy"
               className="relative rounded-2xl shadow-2xl w-full transform group-hover:scale-105 transition duration-500"
             />
           </div>
@@ -85,7 +85,7 @@ const About = () => {
             </div>
             <div className="space-y-4 text-gray-600 text-lg leading-relaxed">
               <p className="transform hover:translate-x-2 transition duration-300">
-                Founded with a vision to revolutionize the beauty industry, LashedbyOpe has become 
+                Founded with a vision to revolutionize the beauty industry, LashedBy has become 
                 a premier destination for lash extensions, nail artistry, and luxury pedicures.
               </p>
               <p className="transform hover:translate-x-2 transition duration-300">
